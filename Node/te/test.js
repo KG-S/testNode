@@ -1,7 +1,9 @@
 var http = require('http');
 http.createServer(function(req, res){
-    res.end("Bem vindo!")
+    res.end("Bem vindo! oi")
     
-}).listen(60000);
+}).listen(10000);
 
 console.log("o serve esta de pé")
+
+
