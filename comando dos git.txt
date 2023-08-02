@@ -1,0 +1,19 @@
+git init
+
+git status
+
+git add . (adicionar todos os arquivos)
+
+git add (adicionar só um arquivo)
+
+git commit -m "nova do pacote/mensagem"
+
+git push origin main (main é o nome da sua branch)
+
+git push origin main (enviar pro git na internet)
+
+git pull origin main (puxar as mudanças pro seu computador)
+
+git remote -v (ver os repsoitorios)
+
+git remote add origin https:nomedoseurepositorio.com
